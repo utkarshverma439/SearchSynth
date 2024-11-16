@@ -184,6 +184,7 @@ Thank you for checking out **SearchSynth**! It's a tool built to make web search
 - /app.py                      # Main app file with Streamlit interface
 - /requirements.txt            # Python dependencies
 - /.streamlit/secrets.toml     # API keys for SerpApi and Groq
+- /credentials.json            # Credentials for connecting to Google Sheets (e.g., for accessing Google Sheets Data).
 - /LICENSE                     # License file for the project
 - /README.md                   # This README file
 ```
